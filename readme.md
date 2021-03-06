@@ -1,5 +1,7 @@
 # Basic Landing
 
+Desided to practice old-school float way of CSS layout building.
+
 Website: https://blissful-bassi-7f178b.netlify.app/
 
 Used most of the features e.g 
