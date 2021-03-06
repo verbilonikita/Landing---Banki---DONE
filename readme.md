@@ -1,6 +1,6 @@
 # Basic Landing
 
-Desided to practice old-school float way of CSS layout building.
+Desided to practice old-school float way of CSS layout building, so no flex-box or grid on that.
 
 Website: https://blissful-bassi-7f178b.netlify.app/
 
