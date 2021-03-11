@@ -16,9 +16,8 @@
       rgba($color-primary-dark, 0.8)
     ),
     url(../img/background-section.png);
-  background-size: 80%;
-  background-position-y: 50%;
-  background-position-x: 30%;
+  background-size: cover;
+
   transform: skewY(-7deg);
   margin-top: -10rem;
 
@@ -42,6 +41,7 @@
 }
 
 .section-stories {
+  background-color: rgba(145, 88, 192, 0.411);
   position: relative;
   padding: 15rem 0;
 
