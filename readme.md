@@ -1,10 +1,12 @@
 # Basic Landing
 
-Desided to practice old-school float way of CSS layout building, so no flex-box or grid on that.
+Desided to practice float old-school CSS positioning. 
+
+Not that particularly beautiful, but has all of the most-used front-end features.
 
 Website: https://blissful-bassi-7f178b.netlify.app/
 
-Not that particulrly beautiful, but has most of commonly used features:
+Features:
 1. flip card 
 2. form validation with red line if wrong and green if ok
 3. Lots of different transitions.
