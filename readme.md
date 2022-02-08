@@ -2,7 +2,7 @@
 
 Desided to practice float old-school CSS positioning. 
 
-Not that particularly beautiful, but has all of the most-used front-end features.
+Not that particularly beautiful, but has all of the most-used design features.
 
 Website: https://blissful-bassi-7f178b.netlify.app/
 
